@@ -1,6 +1,8 @@
 <!-- markdownlint-disable MD033 MD041 MD045 MD047 -->
 
-<img src="assets/header.png" width="60%" />
+<p align="center">
+  <img src="assets/header.png" width="70%" />
+</p>
 
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
 
@@ -8,7 +10,7 @@
   <tr>
     <td>
       <div>
-        I am a Computer Vision researcher and full-stack web developer from <strong>Moscow, Russia</strong>
+        I am Ivan, a Computer Vision researcher and full-stack web developer from <strong>Moscow, Russia</strong>
         <img src="assets/flag-russia.png" width="20"/>
         , currently studying at Tsinghua University in <strong>Beijing, China</strong>
         <img src="assets/flag-china.jpg" width="20"/>.
@@ -63,7 +65,7 @@ int main()
   <tr>
     <td>
       <div>
-        Working at the <a href="https://cg.cs.tsinghua.edu.cn/">Graphics & Geometric Computing Group</a> at Tsinghua University on <strong>physics-based 3D reconstruction.</strong>
+        Working at the <a href="https://cg.cs.tsinghua.edu.cn/">Graphics & Geometric Computing Group</a> on <strong>physics-based 3D reconstruction.</strong>
       </div>
       <br>
       <pre>
