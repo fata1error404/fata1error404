@@ -1,5 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 MD045 MD047 -->
 
+<img src="assets/header.png" width="60%" />
+
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
 
 <table>
@@ -61,7 +63,7 @@ int main()
   <tr>
     <td>
       <div>
-        Working at the <a href="https://cg.cs.tsinghua.edu.cn/">Graphics & Geometric Computing Group</a> at Tsinghua University on <strong>marine physics-based 3D reconstruction.</strong>
+        Working at the <a href="https://cg.cs.tsinghua.edu.cn/">Graphics & Geometric Computing Group</a> at Tsinghua University on <strong>physics-based 3D reconstruction.</strong>
       </div>
       <br>
       <pre>
@@ -141,7 +143,7 @@ int main()
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fata1error404/fata1error404/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fata1error404/fata1error404/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fata1error404/fata1error404/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fata1error404/fata1error404/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fata1error404/fata1error404/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fata1error404/fata1error404/output/ocean.gif">
 </picture>
