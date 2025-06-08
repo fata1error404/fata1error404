@@ -12,7 +12,7 @@
       <div>
         I am Ivan, a Computer Vision researcher and full-stack web developer from <strong>Moscow, Russia</strong>
         <img src="assets/flag-russia.png" width="20"/>
-        , currently studying at Tsinghua University in <strong>Beijing, China</strong>
+        , studying at Tsinghua University in <strong>Beijing, China</strong>
         <img src="assets/flag-china.jpg" width="20"/>.
       </div>
       </br>
@@ -110,7 +110,7 @@ int main()
     </tr>
     <tr>
       <td width="250">
-        <a href="https://github.com/yourusername/distributed-data-center">
+        <a href="https://github.com/fata1error404/tsinghua-distributed-database-systems">
           Distributed Data Center 💾
         </a>
       </td>
